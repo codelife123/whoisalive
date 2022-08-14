@@ -1,0 +1,23 @@
+{
+  "name": "whoisalive-site",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codelife123/whoisalive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codelife123/whoisalive/issues"
+  },
+  "homepage": "https://github.com/codelife123/whoisalive#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
